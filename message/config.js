@@ -11,11 +11,11 @@ global.Api = {
 // Apikey Website Api
 global.ApiKey = 'coderevolution' 
 
-NameOwner = 'KazeDevID'// Nama lu
-NameBot = 'Akaeru Md'// Nama bot lu
-NomorOwner = '6282217590187'// Nomor Owner
+NameOwner = 'Galih TK'// Nama lu
+NameBot = 'GT-Bot'// Nama bot lu
+NomorOwner = '6288970546064'// Nomor Owner
 Log = '\n『々Lord』KAZE☆☆☆'//console log gerak nya:v
-Titlenyo = 'SUBSRIBE CHANNEL KAZEDEVID'// Titlenya
+Titlenyo = 'WELCOME'// Titlenya
 
 // FOOTER/WM
 Mfooter = 'Peringatan: Dilarang keras spam command.\n\n© KazeDevID'// footer menu/biodata
@@ -24,9 +24,9 @@ Uig = 'https://instagram.com/lordagam23_'// link ig lu
 Ugc = 'https://chat.whatsapp.com/KX1gNmG96RHC2oUlNy3Wdz'// link gc lu
 
 // Other
-global.owner = ['6282217590187']// Nomor lu
-global.premium = ['6282217590187']// User Prem
-global.profilebio = ['6282217590187'] // ini ganti nomor lu ntar bisa nampilin pp lu
+global.owner = ['6288970546064']// Nomor lu
+global.premium = ['6288970546064']// User Prem
+global.profilebio = ['6288970546064'] // ini ganti nomor lu ntar bisa nampilin pp lu
 global.packname = 'Akaeru Bot'// Packname
 global.sessionName = 'session'// session Bot
 global.footer = '© KazeDevID'// footer biasa
