@@ -5,11 +5,13 @@ const { times, runtime, sender, pushname, formatDate, tanggal } = require('../li
 
 // Website Api
 global.Api = {
-	ampibi: 'https://ampibismm.my.id',
+	zenz: 'https://zenzapis.xyz',
 }
 
 // Apikey Website Api
-global.ApiKey = 'coderevolution' 
+global.ApiKeys = {
+ 'https://zenzapis.xyz':'0e92565522',
+}
 
 NameOwner = 'Galih TK'// Nama lu
 NameBot = 'GT-Bot'// Nama bot lu
