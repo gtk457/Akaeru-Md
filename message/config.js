@@ -10,7 +10,7 @@ global.Api = {
 
 // Apikey Website Api
 global.ApiKeys = {
- 'https://zenzapis.xyz':'0e92565522',
+ 'https://zenzapis.xyz':'eb7a907b1c98',
 }
 
 NameOwner = 'Galih TK'// Nama lu
